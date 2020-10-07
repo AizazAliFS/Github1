@@ -3,3 +3,5 @@ This changes has been made in github.com
 
 
 Smart Git
+
+Change 2 from github for smartgit
